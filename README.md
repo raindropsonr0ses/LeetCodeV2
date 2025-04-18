@@ -1,5 +1,5 @@
 # LeetCode Solutions
-This repository contains solutions to selected problems on Leetcode to ace IIT interviews!
+This repository contains solutions to selected problems on Leetcode to ace interviews!
 
 <!---LeetCode Topics Start-->
 
