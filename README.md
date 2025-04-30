@@ -3,8 +3,14 @@ This repository contains solutions to selected problems on Leetcode to ace inter
 
 <!---LeetCode Topics Start-->
 
-## Array
+## Easy
 
-| No. | Title | Difficulty | Solution | Good Reads |
+| No. | Title | Main DS used | Solution | goodnotes |
 | ----- | -----| ----------| ---------| -----------| 
-| 1. | [Find Missing and Repeated values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | Easy |  [C++](Easy/3227-find-missing-and-repeated-values/3227-find-missing-and-repeated-values.cpp) | [Hash Table Guide](https://leetcode.com/discuss/post/1068545/hash-table-and-map-powerful-guide-by-ars-gr3j/)
+| 1. | [Find Missing and Repeated values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | Array |  [C++](Easy/3227-find-missing-and-repeated-values/3227-find-missing-and-repeated-values.cpp) | [Hash Table Guide](https://leetcode.com/discuss/post/1068545/hash-table-and-map-powerful-guide-by-ars-gr3j/)
+
+## Medium
+
+| No. | Title | Main DS used | Solution | goodnotes |
+| ----- | -----| ----------| ---------| -----------| 
+| 1. | [Add Two Numbers](Medium/0002-add-two-numbers/0002-add-two-numbersREADME.md) | LL |  [C](Medium/0002-add-two-numbers/0002-add-two-numbers.c) | 
