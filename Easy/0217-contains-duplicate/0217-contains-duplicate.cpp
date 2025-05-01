@@ -1,7 +1,7 @@
 #include <unordered_set>
 #include <vector>
 // The best DS to leverage is Hashset, in C++ unordered set is the closest to it
-// both look-ups and insertions run in expected \U0001d442(1) time
+// both look-ups and insertions run in expected O(1) time
 class Solution {
 public:
     
